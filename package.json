@@ -1,15 +1,25 @@
 {
     "name": "nosql_practica3",
-    "author": "ebarra",
-    "license": "GNU",
     "version": "0.0.0",
+    "description": "autoCOREctor de la asignatura de BBDD (UPM)",
+    "disableHashCheck": true,
+    "capturesFolder": "miscapturas",
+    "capturesNumber": 3,    
+    "keywords": [
+        "BBDD",
+        "NoSQL",
+        "self-assessment"
+    ],
+    "author": "ging",
+    "license": "GNU",
     "info": {
-        "githubURL": "BBDD-ETSIT/nosql_practica3_bdfi",
-        "serverUrl": "https://autocorector.dit.upm.es/",
+        "githubURL": "BBDD-ETSIT/nosql_practica2_bdfi",
+        "serverUrl": "https://aat.dit.upm.es/",
         "courseId": "899",
-        "assignmentId": "7762"
+        "assignmentId": "12482"
     },
     "dependencies": {
-        "mongoose": "^5.9.1"
+        "mongoose": "^6.7.1",
+        "autocorector": "^3.1.4"
     }
 }
