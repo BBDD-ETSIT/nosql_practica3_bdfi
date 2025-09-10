@@ -16,10 +16,10 @@
         "githubURL": "BBDD-ETSIT/nosql_practica3_bdfi",
         "serverUrl": "https://aat.dit.upm.es/",
         "courseId": "899",
-        "assignmentId": "8496"
+        "assignmentId": "25480"
     },
     "dependencies": {
         "mongoose": "^6.7.1",
-        "autocorector": "^3.1.4"
+        "autocorector": "^4.0.1"
     }
 }
